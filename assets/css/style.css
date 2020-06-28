@@ -1,0 +1,286 @@
+
+				1.Top Header
+				
+**********************************************************************************************
+**********************************************************************************************/
+
+/**********************************************************************************************
+					Base CSS Start
+***********************************************************************************************/
+*,body{
+	padding: 0;
+	margin: 0;
+}
+h2{
+	font-weight: bold;
+}
+
+/**********************************************************************************************
+					Top Header CSS Start
+***********************************************************************************************/
+#header{
+	background-image: url(../img/banner.png);
+	background-size: cover;
+	height: 816px;
+}
+
+.menu{
+	margin-top: 100px;
+	display: block;
+}
+
+.menu ul li {
+	display: inline-block;
+}
+
+.overlay-bg{
+	position: relative;
+	top: 16%;
+	left: 0;
+	background-color: rgba(255,255,255,0.3);
+	height: 35px;
+}
+
+.logo{
+	width: 50px;
+}
+
+
+.menu{
+	
+}
+
+.menu ul li a{
+	margin-right: 40px;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+}
+
+.menu ul li a:hover{
+	color: red;
+}
+
+
+.social {
+	float: right;
+	margin-top: 40px;
+}
+
+.social a i{
+	color: white;
+}
+
+.social a i:hover{
+	color: red;
+}
+
+
+.text1{
+	padding-top: 160px;
+	padding-bottom: 340px;
+}
+
+.text1 h1{
+	font-family: precious;
+	font-size: 50px;
+}
+
+
+/**********************************************************************************************
+					Top Header CSS End
+***********************************************************************************************/
+
+
+
+	
+
+
+.about-text{
+	padding: 100px 100px;
+}
+.about-text h2{
+     font-family: precious;
+}
+
+.about-text h2 span {
+	color: red;
+}
+
+
+
+
+
+
+
+
+#menu-items{
+	background-image: url(../img/banner2.png);
+	background-size: cover;
+	height: 715px;
+	padding: 65px 65px;
+}
+
+.menu-text h2{
+  font-family: precious;
+}
+
+
+
+.items{
+	margin-top: 65px;
+}
+
+.items ul li{
+	display: inline-block;
+}
+
+
+.items ul li a{
+	margin-right: 26px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.items ul li a:hover{
+	color: red;
+	transition: all ease 0.4s;
+}
+
+.item-details{
+	margin-top: 30px;
+}
+
+.item-details h4{
+	font-size: 14px;
+}
+
+.item-details p{
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#chefs{
+	padding: 80px 80px;
+	text-align: center;
+}
+
+
+#chefs h2{
+	font-family: precious;
+}
+
+
+
+.chefs-details{
+	margin-top: 85px;
+}
+
+.chefs-details h4{
+	font-size: 14px;
+}
+
+.chefs-details p{
+	font-size: 12px;
+	color: #d6d6d6;
+}
+
+.chefs-details img:hover{
+     background-color: red;
+     color: red;
+}
+
+
+#dish-slider{
+  padding: 85px 85px;
+  background-image: url(../img/banner3.png);
+  background-size: cover;
+  height: 600px;
+}
+
+.slider-top h2{
+	font-family: precious;
+}
+
+.meal-slider{
+	margin-top: 80px;
+}
+
+.meal-slider img{
+	height: 300px;
+	width: 720px;
+}
+
+
+#book-table{
+     padding: 75px 75px;
+}
+
+
+.booking-title h2{
+	font-family: precious;
+	text-align: center;
+}
+
+#book-table form {
+	margin-top: 45px;
+}
+
+
+#book-table form input{
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+#footer{
+	background-image: url(../img/banner4.png);
+	background-size: cover;
+	height: 415px;
+	padding: 70px 70px;
+}
+
+
+.footer-details p{
+       font-size: 14px;
+}
+
+
+#copyright{
+	background-color: #182235;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
