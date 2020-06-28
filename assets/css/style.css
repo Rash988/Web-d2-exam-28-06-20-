@@ -46,9 +46,6 @@ h2{
 }
 
 
-.menu{
-	
-}
 
 .menu ul li a{
 	margin-right: 40px;
@@ -60,6 +57,7 @@ h2{
 
 .menu ul li a:hover{
 	color: red;
+	transition: all ease 0.4s;
 }
 
 
@@ -74,6 +72,7 @@ h2{
 
 .social a i:hover{
 	color: red;
+	transition: all ease 0.4s;
 }
 
 
@@ -204,6 +203,7 @@ h2{
 .chefs-details img:hover{
      background-color: red;
      color: red;
+     transition: all ease 0.4s;
 }
 
 
@@ -260,6 +260,10 @@ h2{
 	background-size: cover;
 	height: 415px;
 	padding: 70px 70px;
+}
+
+.footer-details h4{
+      border-bottom: 1px solid red;
 }
 
 
